@@ -15,7 +15,7 @@ Nossas aulas serão divididas em 18 vídeos:
 7) Introdução aos Hooks e eventos (onChange e onClick)
 8) State - useState
 9) UseEffect - Consumindo API em react
-10) Revisão com exercícios
+10) Criando Rotas (react router dom)
 11) Como usar imagens em react
 12) Como usar CSS em react
 13) Introdução aos testes no React (Jest e React Test Library)<br>
