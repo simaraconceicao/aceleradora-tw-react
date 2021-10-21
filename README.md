@@ -28,7 +28,7 @@ Nossas aulas serão divididas em 18 vídeos:
 ---
 <br><br>
 
-### 1. Apresentação da {Facilitadora} Simara Conceição
+### {Facilitadora} Simara Conceição
 
   <img src="https://media.giphy.com/media/efhcZv18NpQDyRsaYa/giphy.gif" alt="Gif Yeah" width="200">
 
