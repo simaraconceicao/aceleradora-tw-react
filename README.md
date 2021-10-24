@@ -18,7 +18,7 @@ Nossas aulas serão divididas em 18 vídeos:
 10) Criando Rotas (react router dom)
 11) Como usar imagens em react
 12) Como usar CSS em react
-13) Introdução aos testes no React (Jest e React Test Library)<br>
+13) Introdução aos testes no React (Jest e React Testing Library)<br>
 14) Projeto guiado - parte 1 <br>
 15) Projeto guiado - parte 2 <br>
 16) Projeto guiado - parte 3 <br>
