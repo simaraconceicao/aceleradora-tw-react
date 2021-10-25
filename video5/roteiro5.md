@@ -5,7 +5,7 @@
 Lembra do componente de perfil que a gente tá supondo que o instagram deve ter?
 Como será que eles fazem pra mudar os conteúdos sempre que identificam que estamos mudando de perfil ao acessar?
 
-Uma forma de fazer isso seria usando as props, ou propriedades.
+Uma das soluções para fazer isso seria usando as props, ou propriedades.
 Vamos à prática.
 Temos o componente Title que para cada página esse título irá mudar. A gente não precisa criar um h1 toda vez e criar todo estilo novamente. Vamos encapsular em um componente e permitir que por props ele receba conteúdos diferentes para o mesmo componente.
 
