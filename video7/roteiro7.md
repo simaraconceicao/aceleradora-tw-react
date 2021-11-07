@@ -15,4 +15,12 @@ Vamos aprender como usar o onChange e o onClick.
 Mas por quê a gente não vai ver tudo de evento e hooks? São muitas possibilidades e não teríamos tempo suficiente. Mas esse vídeo aqui é uma introdução para que você saiba que tudo isso existe e que você pode e deve continuar estudando. Belezinha? <3
 
 
+## Mão no código:
 
+| Recurso | Descrição |
+| --- | --- |
+| `onClick` | Mostrando no console o evento de click funcionando! |
+
+| Recurso | Descrição |
+| --- | --- |
+| `OnChange` | Mostrando no console o valor digitado num formulário!! |
