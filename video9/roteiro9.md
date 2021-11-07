@@ -23,9 +23,7 @@ useEffect(() => {
 
 > geralmente utilizamos useEffect com useState
 
-
 **Exemplos:**
-
 
 | Recurso | Descrição |
 | --- | --- |

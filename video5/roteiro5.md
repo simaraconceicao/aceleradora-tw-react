@@ -66,8 +66,4 @@ function App() {
 
 | Recurso | Descrição |
 | --- | --- |
-| `UpperCase` |  Agora vamos criar um componente UpperCase que transforma em CapsLock qualquer texto passado por children.|
-
-| Recurso | Descrição |
-| --- | --- |
-| `Tick` |  Vamos criar um componente que retorna nosso horário local|
+| `LowerCase` |  Agora vamos criar um componente LowerCase que transforma em minúsculo qualquer texto passado por props.|

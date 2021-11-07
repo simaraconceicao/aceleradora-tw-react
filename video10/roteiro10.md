@@ -6,7 +6,11 @@ Lembra que com react estamos construindo SPA(single page application)? O que sig
 
 Para que no fim das contas, quando clicarmos no menu ou alterarmos na URL a gente consiga visualizar o conteúdo correto. Vamos aprender a usar a biblioteca react-router-dom.
 
-1) Vamos instalar com o yarn ou npm 
+1) Vamos instalar com o yarn 
+
+```
+yarn add react-router-dom@5.2.0
+```
 
 2) Vamos criar o arquivo que irá gerenciar nossos endereços
 

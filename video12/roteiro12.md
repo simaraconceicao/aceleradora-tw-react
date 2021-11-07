@@ -8,7 +8,7 @@ No react temos algumas facilidades para criar estilos dos nossos componentes e p
 
 Mas hoje, vamos fazer aqui da forma raiz com o css purinho.
 
-Para usarmos imagens em react, podemos seguir os passos abaixo:
+Para usarmos css em react, podemos seguir os passos abaixo:
 
 1) Crie seu arquivo com extensão .css
 
@@ -30,3 +30,5 @@ import from '../styles/style.css
 >> é importante ter atenção para não sobrescrever estilos de forma inesperada
 
 >> para zerar seu estilo de forma global na aplicação você pode importá-lo nas camadas acima do componente, como o index ou app. 
+
+5) Vamos também usar uma fonte do Google (links no html e propriedades no css global)

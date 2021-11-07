@@ -54,7 +54,7 @@ function handleClick() {
 **Exemplos:**
 | Recurso | Descrição |
 | --- | --- |
-| `contador de clicks` |  Agora vamos treinar criar componentes, guardar memória no componente e atualizar na tela a quantidade de vezes que um botão está sendo clicado. |
+| `Contador de clicks` |  Agora vamos treinar criar componentes, guardar memória no componente e atualizar na tela a quantidade de vezes que um botão está sendo clicado. |
 
 | Recurso | Descrição |
 | --- | --- |

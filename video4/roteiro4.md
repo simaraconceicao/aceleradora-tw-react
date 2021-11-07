@@ -47,3 +47,7 @@ function Title() {
 export default Title
 ```
 
+
+| Recurso | Descrição |
+| --- | --- |
+| `Relogio` |  Vamos criar um componente que retorna nosso horário local|
