@@ -2,7 +2,7 @@
 
 13) Introdução aos testes no React (React Testing Library)<br>
 
-Como pessoas iniciantes na programação uma das ferramentas que pode nos dar confiança em nosso trabalho e em cada linha de código que escrevemos são os testes.
+Como pessoas iniciantes na programação uma das ferramentas que pode nos dar confiança em nosso trabalho e em cada linha de código(cobertura de testes) que escrevemos são os testes.
 
 Além disso, o mercado espera que advoguemos pela qualidade em nosso trabalho.
 
