@@ -67,3 +67,4 @@ function App() {
 | Recurso | Descrição |
 | --- | --- |
 | `LowerCase` |  Agora vamos criar um componente LowerCase que transforma em minúsculo qualquer texto passado por props.|
+

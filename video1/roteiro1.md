@@ -5,7 +5,7 @@
 E aeee? Eu sou Simara Conceição e está começando agora o nosso módulo de React para Iniciantes.
 Eu vou ser a sua facilitadora e juntas vamos dar os primeiros passos nessa tecnologia que é uma das mais queridinhas do mercado.
 
-Mas antes disso, deixa eu te contar um poquinho da minha trajetória. Eu tenho 32 anos, sou baiana, mas atualmente estou morando em São Paulo. Meu background é em Marketing Digital e em 2019 eu iniciei uma migração para me tornar uma pessoa desenvolvedora.
+Mas antes disso, deixa eu te contar um pouquinho da minha trajetória. Eu tenho 32 anos, sou baiana, mas atualmente estou morando em São Paulo. Meu background é em Marketing Digital e em 2019 eu iniciei uma migração para me tornar uma pessoa desenvolvedora.
 
 Hoje, eu eu sou desenvolvedora na Thoughtworks e professora de programação na Reprograma.
 Além disso, criei também o podcast quero ser dev para inspirar mulheres diversas a embarcar também nessa aventura de migração de carreira para tecnologia.

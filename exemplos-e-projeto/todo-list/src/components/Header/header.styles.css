@@ -1,5 +1,5 @@
 .header {
-  background: #FFDF2B;
+  background: linear-gradient(90deg, rgba(255,196,0,1) 12%, rgba(255,223,43,1) 56%, rgba(255,246,43,1) 77%);
   padding-top: 2rem;
 }
 

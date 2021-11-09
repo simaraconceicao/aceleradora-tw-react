@@ -1,4 +1,4 @@
-.task-list {
+.list {
   background: #ffff;
   border-radius: 1rem;
   margin-top: -10rem;
@@ -17,7 +17,7 @@ header h2 {
   font-size: 2.25rem;
 }
 
-.input-group {
+.input-container {
   display: flex;
   gap: 0.25rem;
   align-items: center;
@@ -37,17 +37,25 @@ button {
   font-weight: 600;
   border-radius: 8px;
   border: 0;
-  background: #60C3D8;
+  
   color: #fff;
   display: flex;
   flex-direction: row;
   align-items: center;
   padding: 14px;
+} 
+
+.add-task {
+  background: #60C3D8;
+}
+
+.remove-task {
+  background:rgb(230, 79, 79);
 }
 
 main {
   width: 70%;
-  padding-left: 250px;
+  padding-left: 10%;
 }
 
 ul {
@@ -58,11 +66,9 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #FFDF2B;
-  border: 1px solid #60C3D8;
-  border-radius: 8px;
   margin: 20px;
-  padding: 6px;
+  border-bottom: 0.7px solid #7e7d7d;
+  padding: 1rem 0;
 }
   
 main ul li div {
@@ -75,4 +81,9 @@ main ul li div {
 ul li div p {
   font-size: 1rem;
   color: #111;
+}
+
+.completed p {
+  text-decoration:line-through;
+  opacity: 0.6;
 }

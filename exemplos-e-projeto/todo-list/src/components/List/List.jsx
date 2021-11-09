@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { FiTrash, FiCheckSquare } from 'react-icons/fi'
+import { FiTrash2, FiPlus } from 'react-icons/fi'
 
 import '../List/list.styles.css'
 const List = () => {
@@ -22,20 +22,38 @@ const List = () => {
     setNewTask('')
   }
 
+  function handleToggleTaskCompletion(id) {
+    //Altere entre `true` ou `false` o campo `isComplete` de uma task com dado ID
+    //Encontre uma tarefa pelo id, olhe pra o isComplete e alterne o valor entre true e false quando for clicado
+    const newTasks = list.map(task => task.id === id ? {
+      ...task,
+      isComplete: !task.isComplete,
+    } : task)
+    
+    setList(newTasks)
+  }
+
+  function handleRemoveTask(id) {
+    // Remova uma task da listagem pelo ID
+    const tasksFiltered = list.filter(task => task.id !== id)
+    setList(tasksFiltered)
+   
+  }
+
   return (
-    <section className="task-list container">
+    <section className="list">
       <header>
         <h2>Tarefas a fazer:</h2>
 
-        <div className="input-group">
+        <div className="input-container">
           <input 
             type="text" 
             placeholder="Adicionar nova tarefa" 
             onChange={(e) => setNewTask(e.target.value)}
             value={newTask}
           />
-          <button type="submit" data-testid="add-task-button" onClick={handleCreateNewTask}>
-            <FiCheckSquare size={16} color="#fff"/>
+          <button className="add-task" type="submit" data-testid="add-task" onClick={handleCreateNewTask}>
+            <FiPlus size={16} color="#fff"/>
           </button>
         </div>
       </header>
@@ -49,15 +67,15 @@ const List = () => {
                   <input 
                     type="checkbox"
                     checked={task.isComplete}
-                    onClick={() => {}}
+                    onClick={() => handleToggleTaskCompletion(task.id)}
+                    readOnly
                   />
                   <span className="checkmark"></span>
                 </label>
                 <p>{task.title}</p>
               </div>
-
-              <button type="button" data-testid="remove-task-button" onClick={() => {}}>
-                <FiTrash size={16}/>
+              <button className="remove-task"type="button" data-testid="remove-task" onClick={() => handleRemoveTask(task.id)}>
+                <FiTrash2 size={16}/>
               </button>
             </li>
           ))}

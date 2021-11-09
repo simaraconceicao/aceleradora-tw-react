@@ -36,7 +36,7 @@ Vamos fazer isso!
 
 3) Ele irá abrir um navegador sozinho usando a porta localhost:3000 e é lá que você consegue ter uma pré de como sua SPA está ficando.
 
-4) Perceba que ele rodou uma págima pronta. Tharam! A gente só precisou rodar alguns pequenos comandos no terminal, certo? Vamos trocar esse conteúdo pelo nosso hello world. Vá até src > App.js (Apague a div e tudo que está dentro dela e escreva no lugar <h1>Hello, World!</h1> Salve e volte para o navegador! Uhullllll, agora vamos começar com o pé direito a entender todas essas pastas, arquivos e como estamos escrevendo num arquivo javascript e fazendo aparecer no html. <3
+4) Perceba que ele rodou uma págima pronta. Tharam! A gente só precisou rodar alguns pequenos comandos no terminal, certo? Vamos trocar esse conteúdo pelo nosso hello world. Vá até src > App.js (Apague a div e tudo que está dentro dela e escreva no lugar <h1>Hello, World!</h1> Salve e volte para o navegador! Uhullllll, agora vamos começar com tudooo a entender todas essas pastas, arquivos e como estamos escrevendo num arquivo javascript e fazendo aparecer no html. <3
 
 5) 
 > node_modules
