@@ -10,7 +10,7 @@ Mas antes disso, deixa eu te contar um pouquinho da minha trajetória. Eu tenho 
 Hoje, eu eu sou desenvolvedora na Thoughtworks e professora de programação na Reprograma.
 Além disso, criei também o podcast quero ser dev para inspirar mulheres diversas a embarcar também nessa aventura de migração de carreira para tecnologia.
 
-Agora, chega de falar de mim, rs. Aqui estão alguns recadinhos importantes para que você possa aproveitar ao máximo essas aulas.
+Agora, chega de falar de mim, rs. Aqui estão alguns 5 recadinhos importantes para que você possa aproveitar ao máximo essas aulas.
 
 1- Preste bastante atenção!
 2- Faça anotações quando necessário!

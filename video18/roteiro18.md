@@ -20,6 +20,6 @@ Nesta série de 18 vídeos aprendemos muito juntes:
 
 Lembro que os vídeos e o repositório com todo o conteúdo estão disponíveis, continuem praticando. 
 
-E anotem meu recadinho final: "vamos em frente evoluindo sempre."
+E anotem meu recadinho final: "vamos em frente melhorando sempre."
 
 Contem comigo! Nos vemos por aí! <3

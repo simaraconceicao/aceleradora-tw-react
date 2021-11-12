@@ -12,7 +12,7 @@ const filmes = [
         id: 1,
         nome: "The Social Dilemma",
         genero: "documentário",
-        capa: "https://jornalggn.com.br/sites/default/files/2020/09/o-dilema-das-redes-choque-assimilacao-solucao-social-media-683x1024.jpeg"
+        capa: "https://static.wixstatic.com/media/00d1a3_e8a01dfe8cf0489d8ed6001d1ab6286f~mv2.jpeg/v1/fill/w_1000,h_1500,al_c,q_90,usm_0.66_1.00_0.01/00d1a3_e8a01dfe8cf0489d8ed6001d1ab6286f~mv2.jpeg"
 
     },
     {
