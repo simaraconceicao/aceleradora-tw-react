@@ -14,7 +14,7 @@ Uma aplicação simples de TODO LIST, contendo 3 funcionalidades:
 
 [] Create React App
 
-[] Criar o component Head (html, css e tests)
+[] Criar o component Header (html, css e tests)
 
 [] Criar o component List com a função de add uma tarefa (html, css e tests)
 
