@@ -30,5 +30,3 @@ import from '../styles/style.css
 >> é importante ter atenção para não sobrescrever estilos de forma inesperada
 
 >> para zerar seu estilo de forma global na aplicação você pode importá-lo nas camadas acima do componente, como o index ou app. 
-
-5) Vamos também usar uma fonte do Google (links no html e propriedades no css global)

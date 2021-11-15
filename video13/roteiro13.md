@@ -39,6 +39,3 @@ describe('Hello world', () => {
 
 >> No futuro, é muito importante estudar sobre TDD (Programação orientada a testes), saber também como criar mocks de objetos e funções e ser bastante críticas em avaliar quais casos de testes fazem sentido. :) 
 
-
-
-
