@@ -12,16 +12,16 @@ Uma aplicação simples de TODO LIST, contendo 3 funcionalidades:
 
 # Nossas tarefas
 
-[] Create React App
+[x] Create React App
 
-[] Criar o component Header (html, css e tests)
+[x] Criar o component Header (html, css e tests)
 
-[] Criar o component List com a função de add uma tarefa (html, css e tests)
+[x] Criar o component List com a função de add uma tarefa (html, css e tests)
 
-[] Criar e testar as funções de completar uma tarefa e de deletar uma tarefa
+[x] Criar e testar as funções de completar uma tarefa e de deletar uma tarefa
 
-[] Incluir configuração do Netlify
+[x] Incluir configuração do Netlify
 
-[] Subir no github
+[x] Subir no github
 
-[] Subir no Netlify
+[x] Subir no Netlify
