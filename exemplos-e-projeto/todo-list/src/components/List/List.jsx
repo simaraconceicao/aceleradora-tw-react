@@ -1,8 +1,20 @@
 import { useState } from 'react'
 import { FiTrash2, FiPlus } from 'react-icons/fi'
-
 import '../List/list.styles.css'
+
+
 const List = () => {
+  // const getLocalList = () => {
+  //   let items = localStorage.getItem('list')
+  
+  //   if (items) {
+  //     return JSON.parse(localStorage.getItem('list'))
+  //   } else {
+  //     return []
+  //   }
+  
+  // }
+  
   const [list, setList] = useState([])
   const [newTask, setNewTask] = useState('')
 
@@ -39,6 +51,11 @@ const List = () => {
     setList(tasksFiltered)
    
   }
+
+  //salvar na localStorage
+  // useEffect(() =>{
+  //   localStorage.setItem('list', JSON.stringify(list))
+  // }, [list])
 
   return (
     <section className="list">
